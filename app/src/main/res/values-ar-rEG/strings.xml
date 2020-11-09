@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محسوب</string>
+    <string name="login">دخول</string>
+    <string name="login_hint">دخل رقمك</string>
+    <string name="not_reg">الرقم ده مش موجود اصلا</string>
+    <string name="logout">خروج</string>
+    <string name="order_code">رقم الاوردر</string>
+    <string name="shop_money">حساب المحل</string>
+    <string name="client_paid">تم تحصيل</string>
+    <string name="add_order">اضافه</string>
+    <string name="total_balance">الاجمالي</string>
+    <string name="total_profit">الحصيله</string>
+    <string name="added">تمت الاضافه</string>
+    <string name="active">الباسوورد اللي دخلته غلط</string>
+    <string name="error">ماينفعش تاخد من العميل اقل من حساب المحل</string>
+    <string name="days">الايام</string>
+    <string name="back">دوس تاني عشان تخرج</string>
+    <string name="not_internet">التليفون مش متوصل بالنت</string>
+    <string name="password">دخل الباسوورد</string>
+    <string name="req">دخل كل البيانات</string>
+    <string name="remove">حذف</string>
+    <string name="removed_message">تم الحذف</string>
+    <string name="dialog_title">حذف اوردر</string>
+    <string name="dialog_body">انت متأكد انك عايز تمسح الاوردر ده ؟</string>
+    <string name="payment">المدفوعات</string>
+    <string name="payment_hint">هتدفع كام...</string>
+    <string name="pay">دفع</string>
+    <string name="enter_money">اكتب مبلغ مالي!!</string>
+    <string name="no_connection">مفيش نت شغال!!</string>
+    <string name="all_paid">خالص</string>
+    <string name="total_orders">Total Orders</string>
+
+</resources>
